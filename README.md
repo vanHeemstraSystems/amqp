@@ -3,6 +3,8 @@ amqp
 
 Get to know AMQP, a Message Queuing Platform (aka RabbitMQ) that works very well with N8N and Home Assistant.
 
+LavinMQ at https://lavinmq.com/blog/lavinmq-next-gen-message-broker combines the best from RabbitMQ and Kafka with the ease of AMQP and the freedom of re-consuming messages like in Kafka.
+
 References:
 
 - N8N: https://n8n.io
