@@ -14,3 +14,4 @@ The web application takes these instructions and the image and sends a request t
 
 The website handles the information, scales the image, and saves it in the new format. In the example, the entire scaling process will take several seconds. Let’s get started.
 
+![image](https://github.com/vanHeemstraSystems/amqp/assets/1499433/cbf055ce-9296-42ef-b5e2-7fabb4ac1f75)
